@@ -6,10 +6,12 @@
 ## Instruções:
 
 1. Faça um *fork* deste repositório;
-2. Elabore um layout para seu projeto;
-3. Se você utilizar algum pré-processador como SASS ou LESS, use apenas o `css` minificado no site, mas deixe os arquivos fontes no seu repositório;
-4. Para a interação dos componentes da página utilize jQuery ou Javascript nativo;
-5. Após terminar seu teste submeta um pull request e aguarde o feedback de nosso time de desenvolvedores.
+2. Leia todo este arquivo `README.md` para entender o que será avaliado e a metodologia do teste
+3. Leia o arquivo `REQUISITOS.md` para entender os requisitos funcionais deste teste
+4. Elabore um layout para seu projeto;
+5. Se você utilizar algum pré-processador como SASS ou LESS, use apenas o `css` minificado no site, mas deixe os arquivos fontes no seu repositório;
+6. Para a interação dos componentes da página utilize jQuery ou Javascript nativo;
+7. Após terminar seu teste submeta um *pull request* e aguarde o feedback de nosso time de desenvolvedores.
 
 * **Importante:** O formulário de cadastro não deve fazer requisições para nenhuma url.
 * **Importante:** A url da página não pode ser recarregada em momento algum.
